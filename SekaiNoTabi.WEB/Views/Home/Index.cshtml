@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Sekai no Tabi";
+}
+
+<div class="hero min-h-screen bg-gradient-to-r from-emerald-500 to-blue-500">
+    <div class="container mx-auto px-4 py-16">
+        <div class="text-center text-white">
+            <h1 class="text-5xl font-bold mb-4">Welcome to Sekai no Tabi</h1>
+            <p class="text-xl mb-8">Discover the World's Most Beautiful Natural Destinations</p>
+            <a href="@Url.Action("Destination", "Home")" class="bg-white text-emerald-600 px-8 py-3 rounded-full font-semibold hover:bg-emerald-50 transition-colors">
+                Explore Destinations
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container mx-auto px-4 py-16">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="space-y-4">
+            <h2 class="text-3xl font-bold text-gray-800">Experience Nature's Wonders</h2>
+            <p class="text-gray-600">
+                Embark on unforgettable journeys to the most breathtaking natural destinations around the globe. 
+                From majestic mountains to pristine beaches, we curate the perfect experiences for nature lovers.
+            </p>
+        </div>
+        <div class="space-y-4">
+            <h2 class="text-3xl font-bold text-gray-800">Why Choose Us</h2>
+            <ul class="space-y-2 text-gray-600">
+                <li>✓ Carefully selected natural destinations</li>
+                <li>✓ Expert local guides</li>
+                <li>✓ Sustainable tourism practices</li>
+                <li>✓ Unforgettable experiences</li>
+            </ul>
+        </div>
+    </div>
+</div>
