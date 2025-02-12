@@ -36,3 +36,4 @@ C:\Users\User\SekaiNoTabi\SekaiNoTabi.WEB\bin\Debug\net8.0\Snappier.dll
 C:\Users\User\SekaiNoTabi\SekaiNoTabi.WEB\bin\Debug\net8.0\ZstdSharp.dll
 C:\Users\User\SekaiNoTabi\SekaiNoTabi.WEB\obj\Debug\net8.0\SekaiNoTabi.WEB.csproj.AssemblyReference.cache
 C:\Users\User\SekaiNoTabi\SekaiNoTabi.WEB\obj\Debug\net8.0\SekaiNoT.B52FF346.Up2Date
+C:\Users\User\SekaiNoTabi\SekaiNoTabi.WEB\obj\Debug\net8.0\SekaiNoTabi.WEB.sourcelink.json

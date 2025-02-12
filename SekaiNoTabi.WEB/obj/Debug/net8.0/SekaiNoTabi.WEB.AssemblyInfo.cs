@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SekaiNoTabi.WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b588f473e4e6c5f481e6ea8fbcb5324aa7c4bbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SekaiNoTabi.WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SekaiNoTabi.WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

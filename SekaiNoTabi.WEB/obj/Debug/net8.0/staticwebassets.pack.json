@@ -13,6 +13,50 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Aomori.png",
+      "PackagePath": "staticwebassets\\images\\Aomori.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Banff National Park.png",
+      "PackagePath": "staticwebassets\\images\\Banff National Park.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Christmas-Island.png",
+      "PackagePath": "staticwebassets\\images\\Christmas-Island.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Fiordland.png",
+      "PackagePath": "staticwebassets\\images\\Fiordland.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Galapagos.png",
+      "PackagePath": "staticwebassets\\images\\Galapagos.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Mount-Fuji.png",
+      "PackagePath": "staticwebassets\\images\\Mount-Fuji.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Northern-Mountain-Range.png",
+      "PackagePath": "staticwebassets\\images\\Northern-Mountain-Range.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Tasmania-Island.png",
+      "PackagePath": "staticwebassets\\images\\Tasmania-Island.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Thingvellir-National-Park.png",
+      "PackagePath": "staticwebassets\\images\\Thingvellir-National-Park.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Waikiki-Beach.png",
+      "PackagePath": "staticwebassets\\images\\Waikiki-Beach.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Zhangjiajie.png",
+      "PackagePath": "staticwebassets\\images\\Zhangjiajie.png"
+    },
+    {
       "Id": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
