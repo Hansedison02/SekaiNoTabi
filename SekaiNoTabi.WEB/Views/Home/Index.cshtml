@@ -2,11 +2,15 @@
     ViewData["Title"] = "Sekai no Tabi";
 }
 
-<div class="hero min-h-screen bg-gradient-to-r from-emerald-500 to-blue-500">
+<div class="hero min-h-screen" style="background-image: linear-gradient(90deg, rgba(16,185,129,0.3), rgba(59,130,246,0.3)), url('@Url.Content("~/images/Mount-Fuji.png")'); background-attachment: fixed;">
     <div class="container mx-auto px-4 py-16">
         <div class="text-center text-white">
-            <h1 class="text-5xl font-bold mb-4">Welcome to Sekai no Tabi</h1>
-            <p class="text-xl mb-8">Discover the World's Most Beautiful Natural Destinations</p>
+            <h1 class="text-6xl mb-4" style="font-family: Caveat;">Welcome to</h1>
+            <h1 class="text-9xl mb-4 hachi-maru-pop">世界の旅</h1>
+            <br>
+            <p class="text-xl font-bold mb-8" style="color: #f7f6f6; font-family: Jura, serif;">Discover Natural Wonders Among the World</p>
+            <br>
+            <br>
             <a href="@Url.Action("Destination", "Home")" class="bg-white text-emerald-600 px-8 py-3 rounded-full font-semibold hover:bg-emerald-50 transition-colors">
                 Explore Destinations
             </a>
@@ -14,23 +18,27 @@
     </div>
 </div>
 
-<div class="container mx-auto px-4 py-16">
+<div class="container mx-auto px-4 py-16 bg-cover bg-center bg-no-repeat" style="background-image: linear-gradient(90deg, rgba(239,68,68,0.1), rgba(139,92,246,0.2)), url('@Url.Content("~/images/Hanabi.png")');">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div class="space-y-4">
-            <h2 class="text-3xl font-bold text-gray-800">Experience Nature's Wonders</h2>
-            <p class="text-gray-600">
-                Embark on unforgettable journeys to the most breathtaking natural destinations around the globe. 
-                From majestic mountains to pristine beaches, we curate the perfect experiences for nature lovers.
-            </p>
-        </div>
-        <div class="space-y-4">
-            <h2 class="text-3xl font-bold text-gray-800">Why Choose Us</h2>
-            <ul class="space-y-2 text-gray-600">
+        <div class="space-y-4 text-left">
+            <h2 class="text-3xl font-bold" style="color: #f1edec; font-family: Jura, serif;">Why Choose Us</h2>
+            <br><br><br><br><br><br>
+            <ul class="space-y-2 ccode" style="color: #f1edec;">
                 <li>✓ Carefully selected natural destinations</li>
                 <li>✓ Expert local guides</li>
                 <li>✓ Sustainable tourism practices</li>
                 <li>✓ Unforgettable experiences</li>
             </ul>
+        </div>
+        <div class="space-y-4 text-right">
+            <h2 class="text-3xl font-bold" style="color: #f1edec; font-family: Jura, serif;">Tour the World</h2>
+            <br><br><br><br><br><br><br><br>
+            <p class="ccode" style="color: #f1edec;">
+                Experience unforgetable journeys. 
+            </p>
+            <p class="ccode" style="color: #f1edec;">
+                From mountains to pristine beaches for nature lovers.
+            </p>
         </div>
     </div>
 </div>

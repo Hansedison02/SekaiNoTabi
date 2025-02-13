@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/lCOaT3tmFYGijrJnvNXXewUBew+Uc/stE13pYd3P7k=",
+  "Hash": "qJFubsxqVrvotpsO601+3X5AmkMVjD731Tc/ReSo6f4=",
   "Source": "SekaiNoTabi.WEB",
   "BasePath": "_content/SekaiNoTabi.WEB",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\images\\Aomori.png"
     },
     {
-      "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Banff National Park.png",
+      "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Banff-National-Park.png",
       "SourceId": "SekaiNoTabi.WEB",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\",
       "BasePath": "_content/SekaiNoTabi.WEB",
-      "RelativePath": "images/Banff National Park.png",
+      "RelativePath": "images/Banff-National-Park.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Banff National Park.png"
+      "OriginalItemSpec": "wwwroot\\images\\Banff-National-Park.png"
     },
     {
       "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Christmas-Island.png",
@@ -188,6 +188,25 @@
       "OriginalItemSpec": "wwwroot\\images\\Galapagos.png"
     },
     {
+      "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Hanabi.png",
+      "SourceId": "SekaiNoTabi.WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\",
+      "BasePath": "_content/SekaiNoTabi.WEB",
+      "RelativePath": "images/Hanabi.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Hanabi.png"
+    },
+    {
       "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Mount-Fuji.png",
       "SourceId": "SekaiNoTabi.WEB",
       "SourceType": "Discovered",
@@ -224,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Northern-Mountain-Range.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Sognefjord.png",
+      "SourceId": "SekaiNoTabi.WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\",
+      "BasePath": "_content/SekaiNoTabi.WEB",
+      "RelativePath": "images/Sognefjord.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Sognefjord.png"
     },
     {
       "Identity": "C:\\Users\\User\\SekaiNoTabi\\SekaiNoTabi.WEB\\wwwroot\\images\\Tasmania-Island.png",
